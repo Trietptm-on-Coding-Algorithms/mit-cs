@@ -5,7 +5,7 @@ import string
 def load_words(file_name):
     '''
     file_name (string): the name of the file containing 
-    the list of words to load    
+    the list of words to load
     
     Returns: a list of valid words. Words are strings of lowercase letters.
     
